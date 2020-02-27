@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "datagrid_simple", "datagrid_simple\datagrid_simple.csproj", "{79F4C133-7DBE-4041-8161-E4DF80389BE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "data_models", "data_models\data_models.csproj", "{7C077F01-46F1-4106-9B0E-FCC6ED8D26FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datagrid_columns", "datagrid_columns\datagrid_columns.csproj", "{730EADA9-F0DE-44F6-9829-FDD8672238F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datagrid_RowDetailsTemplate", "datagrid_RowDetailsTemplate\datagrid_RowDetailsTemplate.csproj", "{50BF6DE7-81E3-4AA4-820A-B6C558605834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F4C133-7DBE-4041-8161-E4DF80389BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F4C133-7DBE-4041-8161-E4DF80389BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F4C133-7DBE-4041-8161-E4DF80389BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F4C133-7DBE-4041-8161-E4DF80389BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C077F01-46F1-4106-9B0E-FCC6ED8D26FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C077F01-46F1-4106-9B0E-FCC6ED8D26FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C077F01-46F1-4106-9B0E-FCC6ED8D26FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C077F01-46F1-4106-9B0E-FCC6ED8D26FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730EADA9-F0DE-44F6-9829-FDD8672238F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730EADA9-F0DE-44F6-9829-FDD8672238F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730EADA9-F0DE-44F6-9829-FDD8672238F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730EADA9-F0DE-44F6-9829-FDD8672238F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BF6DE7-81E3-4AA4-820A-B6C558605834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BF6DE7-81E3-4AA4-820A-B6C558605834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BF6DE7-81E3-4AA4-820A-B6C558605834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BF6DE7-81E3-4AA4-820A-B6C558605834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49120A8B-A701-49F7-BF20-284F2DD7C530}
+	EndGlobalSection
+EndGlobal
