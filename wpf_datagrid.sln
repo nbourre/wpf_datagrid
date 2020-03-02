@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "datagrid_simple", "datagrid
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "data_models", "data_models\data_models.csproj", "{7C077F01-46F1-4106-9B0E-FCC6ED8D26FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datagrid_columns", "datagrid_columns\datagrid_columns.csproj", "{730EADA9-F0DE-44F6-9829-FDD8672238F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "datagrid_columns", "datagrid_columns\datagrid_columns.csproj", "{730EADA9-F0DE-44F6-9829-FDD8672238F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datagrid_RowDetailsTemplate", "datagrid_RowDetailsTemplate\datagrid_RowDetailsTemplate.csproj", "{50BF6DE7-81E3-4AA4-820A-B6C558605834}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "datagrid_RowDetailsTemplate", "datagrid_RowDetailsTemplate\datagrid_RowDetailsTemplate.csproj", "{50BF6DE7-81E3-4AA4-820A-B6C558605834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datagrid_alternate_rows", "datagrid_alternate_rows\datagrid_alternate_rows.csproj", "{D57A211E-7C35-436D-98BB-F1633384D4C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{50BF6DE7-81E3-4AA4-820A-B6C558605834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50BF6DE7-81E3-4AA4-820A-B6C558605834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50BF6DE7-81E3-4AA4-820A-B6C558605834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57A211E-7C35-436D-98BB-F1633384D4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57A211E-7C35-436D-98BB-F1633384D4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57A211E-7C35-436D-98BB-F1633384D4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57A211E-7C35-436D-98BB-F1633384D4C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
