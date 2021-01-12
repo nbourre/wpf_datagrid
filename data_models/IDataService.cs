@@ -7,5 +7,6 @@ namespace data_models
     interface IDataService<T>
     {
         IEnumerable<T> GetAll();
+        void Add(T record);
     }
 }

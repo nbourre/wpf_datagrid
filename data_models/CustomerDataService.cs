@@ -127,5 +127,10 @@ namespace data_models
                 yield return c;
             }
         }
+
+        public void Add(Customer record)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
